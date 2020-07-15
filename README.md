@@ -1,16 +1,23 @@
-### Hi there 👋
+# Paul Touchton 
+Sr. Software Developer | Embracing Technology | Creating New Experiences
 
-<!--
-**ptouchton/ptouchton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+I am a experianced senior developer with a demonstrated history of delivering robust software solutions. I have a passion for exploring
+the latest technologies and how they would apply to known business system challenges.
 
-Here are some ideas to get you started:
+## My Expertise
+- Angular 
+- AngularJS
+- Javascript
+- CSS
+- NodeJS
+- C#
+- .NET Core
+- Classic DB tech ( Oracle and MS Sql Server)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies and concepts being explored 2020
+- Netlify 
+- Vercel
+- Auth0
+- Serverless functions on Netlify
+- FaunaDB
