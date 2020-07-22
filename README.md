@@ -1,5 +1,5 @@
 # Paul Touchton 
-Sr. Software Developer | Embracing Technology | Creating New Experiences
+Sr. Software Developer | Embracing Technology | Creating New Experiences | Continual Learner
 
 ## About
 I am a experienced senior developer with a demonstrated history of delivering robust software solutions. I have a passion for exploring
