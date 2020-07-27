@@ -22,9 +22,10 @@ the latest technologies and how they would apply to known business system challe
 - Serverless functions on Netlify
 - FaunaDB
 - NgRx
+- Angular Animations
 
 ## Year 2020 personal projects
 - Recipe-Clipper https://recipe-clipper.netlify.app/ 
-    - Built with Angular 10, Angular Material, NgRx and netlify functions.
+    - Built with Angular 10, Angular Material, Animations, NgRx and netlify functions.
     - Hosted on Netlify using Auth0 authenitcation.
     - Data is sourced with FaunaDB.
