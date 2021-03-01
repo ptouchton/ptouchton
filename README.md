@@ -15,17 +15,12 @@ the latest technologies and how they would apply to known business system challe
 - .NET Core
 - Classic DB tech ( Oracle and MS Sql Server)
 
-## Technologies and concepts being explored 2020
-- Netlify 
-- Vercel
-- Auth0
-- Serverless functions on Netlify
-- FaunaDB
-- NgRx
-- Angular Animations
+## Technologies and concepts being explored 2021
+- NGXS 
+- Rust
+- Web Assembly
+- Azure static web site hosting
+- Stackblitz web container 
 
-## Year 2020 personal projects
-- Recipe-Clipper https://recipe-clipper.netlify.app/ 
-    - Built with Angular 10, Angular Material, Animations, NgRx and netlify functions.
-    - Hosted on Netlify using Auth0 authenitcation.
-    - Data is sourced with FaunaDB.
+## Year 2021 personal projects
+- Coming soon
