@@ -7,20 +7,26 @@ the latest technologies and how they would apply to known business system challe
 
 ## Current Skillset
 - Angular
-- AngularJS
+- NGXS
+- React
+- React-Query
+- Ramda
+- ant-design
+- material-design
 - Javascript
 - CSS/SCSS
 - NodeJS
+- AngularJS
+- Azure Cloud - Devops and Portal Tech Stack
 - C#
 - .NET Core
 - Classic DB tech ( Oracle and MS Sql Server)
 
 ## Technologies and concepts being explored 2021
-- NGXS 
-- Rust
 - Web Assembly
 - Azure static web site hosting
 - Stackblitz web container 
 
 ## Year 2021 personal projects
-- Coming soon
+- Personal projects have been scrapped due to hiring onto Concord Technologies
+- as a second job to work in React/AWS stack.
